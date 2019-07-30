@@ -23,8 +23,6 @@ MAIN ARGUMENTS
           Install Package
     -u, upgrade
           Upgrade package
-    update
-          Update bananapkg via Internet
     -r, remove
           Remove Package
     -s, search

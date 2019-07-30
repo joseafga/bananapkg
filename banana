@@ -187,10 +187,6 @@ case "$1" in
         done
     ;;
 
-    update) # Update do banana
-        _UPDATE_BANANA && exit 0 || exit 1
-    ;;
-
     -r|remove)
         shift # Rebaixa baby
         _INPUT_NULL_PARAMETER "$1" # Se ta nulo o help precisa ser chamado =) 
